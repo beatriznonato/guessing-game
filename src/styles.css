@@ -3,10 +3,3 @@
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
-.primary-color {
-    background-color: #ec7001;
-}
-
-.v-middle {
-    vertical-align: middle;
-}
