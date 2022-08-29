@@ -7,12 +7,13 @@
   background-color: #706a65;
 }
 
-.footer > span {
-    font-size: 0.9rem;
-    font-weight: 300;
-    color: #ffffff;
+.footer--span {
+  font-size: 0.9rem;
+  font-weight: 300;
+  color: #ffffff;
 }
 
-.icon {
-    color: #e35d6b
+.footer--icon {
+  color: #e35d6b;
+  vertical-align: middle;
 }
