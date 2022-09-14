@@ -1,27 +1,63 @@
-# Frontend
+<img width="905" alt="Screen Shot 2022-08-29 at 09 39 28" src="https://user-images.githubusercontent.com/35739995/187203043-27fd35b2-1148-4cb3-8b9a-9e2850c5d873.png">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
-## Development server
+### Description of Challenge
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p>
+ Develop a game to find the secret word. It must be developed using Angular and it is not necessary to implement the backend.
+</p>
 
-## Code scaffolding
+### User Story
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+As a user
 
-## Build
+- I can access the home page and enter a letter;
+- I can see available "kicks".
+- I can see incorrect letters that are not part of the secret word
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Behavior
+#### Screen: Home
 
-## Running unit tests
+- 
+-
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Pre Requirements :exclamation:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- It is necessary install [npm](https://docs.npmjs.com/cli/v7/commands/npm-install).
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
-## Further help
+## How to Install
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To install in developer mode, follow the step-by-step:
+
+1. Download the repository on your computer.
+2. Access the directory where you downloaded this project and run the command below.
+   Install dependencies
+
+```sh
+  $ npm install or npm i
+```
+
+## How to Run
+
+Run the project
+
+```sh
+ $ npm start
+```
+
+Is running on http://localhost:4200/. The application will automatically reload if you change any of the source files.
+
+
+### Bonus :star:
+
+Link of the materials I used to make the commit semantically and visually and automatically together with Husky.
+
+- https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h
+- https://github.com/conventional-changelog/commitlint
+- https://github.com/commitizen/cz-cli
+
+### License
+
+MIT © Beatriz Nonato :woman_technologist:
